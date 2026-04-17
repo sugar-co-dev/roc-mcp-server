@@ -93,3 +93,5 @@ Data as of: **2026-Q1**
 ## License
 
 MIT
+
+mcp-name: io.github.sugar-co-dev/roc-mcp-server

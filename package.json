@@ -1,6 +1,7 @@
 {
   "name": "roc-mcp-server",
   "version": "1.0.0",
+  "mcpName": "io.github.sugar-co-dev/roc-mcp-server",
   "description": "Return On Creators MCP Server — creator commerce intelligence for TikTok Shop brands",
   "type": "module",
   "main": "src/index.js",
