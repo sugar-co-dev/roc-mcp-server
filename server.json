@@ -8,16 +8,6 @@
     "url": "https://github.com/sugar-co-dev/roc-mcp-server",
     "source": "github"
   },
-  "packages": [
-    {
-      "registryType": "npm",
-      "identifier": "roc-mcp-server",
-      "version": "1.0.0",
-      "transport": {
-        "type": "stdio"
-      }
-    }
-  ],
   "remotes": [
     {
       "type": "sse",
