@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/draft/server.schema.json",
   "name": "io.github.sugar-co-dev/roc-mcp-server",
   "description": "Creator commerce intelligence for TikTok Shop brands. GMV benchmarks, ROC calculator, creator matching, content format rankings, commission guidance, and brand fit analysis — powered by 100+ brands and $20M+ GMV processed on the RoC platform.",
   "version": "1.0.0",
