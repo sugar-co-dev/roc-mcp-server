@@ -1,0 +1,41 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/glama-json-schema.json",
+  "name": "roc-mcp-server",
+  "description": "Creator commerce intelligence for TikTok Shop brands. GMV benchmarks, ROC calculator, creator profiles, content format rankings, commission guidance, and brand fit analysis — powered by 100+ brands and $20M+ GMV processed on the RoC platform.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "tools": [
+    {
+      "name": "roc_get_category_benchmarks",
+      "description": "Get median and top-quartile monthly GMV, average order value, creator activation rates, and top content formats by product category."
+    },
+    {
+      "name": "roc_calculate_projected_roc",
+      "description": "Calculate projected Return on Creators (ROC) multiple using vertical-specific coefficients from real campaign data."
+    },
+    {
+      "name": "roc_get_creator_profile",
+      "description": "Get ideal creator tier, engagement benchmarks, recruitment targets, sample strategy, and match scoring rubric for a brand."
+    },
+    {
+      "name": "roc_get_content_formats",
+      "description": "Get highest-converting TikTok Shop content formats ranked by GMV contribution for a given product category."
+    },
+    {
+      "name": "roc_get_commission_guidance",
+      "description": "Get market-rate commission guidance with tiered structure, per-sale dollar value, and sample strategy by category and price point."
+    },
+    {
+      "name": "roc_analyze_brand_fit",
+      "description": "Run a full brand fit analysis — fit score, positive signals, blockers, and expected GMV range for TikTok Shop creator marketing."
+    },
+    {
+      "name": "roc_get_tiktok_shop_readiness",
+      "description": "Assess TikTok Shop launch readiness with a prioritized action plan and readiness score."
+    },
+    {
+      "name": "roc_get_amplifier_fit",
+      "description": "Creator program gap analysis — current vs needed creator count, top constraints, GMV projections, and weekly priority actions."
+    }
+  ]
+}
